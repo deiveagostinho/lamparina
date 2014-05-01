@@ -1,1 +1,1 @@
-puts "hello from 30 days challenge."
+puts "hello from 30 days challenge"
